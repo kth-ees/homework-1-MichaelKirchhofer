@@ -1,0 +1,72 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Michael/Desktop/KTH/Y2/IL2234/HW1/Q2
+T_opt
+!s110 1757087933
+Ve4h4Ze8?B6GCKB3OllZIM1
+04 14 4 work tb_bcd_encoder fast 0
+=1-047c16708771-68bb08bd-2ad-1cf4
+R0
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2022.4;75
+vbcd_encoder
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1757087912
+!i10b 1
+!s100 E?z_OT03`lLK@g[9=<Rjo0
+I5nR^DSMBJUn5ngTS:WcEE0
+S1
+R1
+w1757087911
+8bcd_encoder.sv
+Fbcd_encoder.sv
+!i122 3
+L0 7 15
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z7 !s108 1757087912.000000
+Z8 !s107 tb_bcd_encoder.sv|bcd_encoder.sv|
+Z9 !s90 -reportprogress|300|-sv|bcd_encoder.sv|tb_bcd_encoder.sv|
+!i113 0
+Z10 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_bcd_encoder
+R3
+R4
+!i10b 1
+!s100 RZ5aUJR?DUgdC^mf]ODL52
+IcIZ?YUi`6HjLZmJS41B^O0
+S1
+R1
+w1757087727
+8tb_bcd_encoder.sv
+Ftb_bcd_encoder.sv
+!i122 3
+L0 10 31
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2

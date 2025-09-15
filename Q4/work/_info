@@ -1,0 +1,98 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Michael/Desktop/KTH/Y2/IL2234/HW1/Q4
+T_opt
+!s110 1757237724
+V=FOj=BJOHG_X^@gQLlmzJ2
+04 10 4 work tb_count_1 fast 0
+=1-047c16708771-68bd51dc-249-613c
+R0
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2022.4;75
+vcount_1
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1757237707
+!i10b 1
+!s100 `WhVcN2Uo3C6ZORnmmHLD3
+IZ_55d6<bJEfWe77k:<NlY2
+S1
+R1
+w1757237657
+8count_1.sv
+Fcount_1.sv
+!i122 4
+L0 8 17
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z7 !s108 1757237707.000000
+Z8 !s107 tb_count_1.sv|count_1.sv|
+Z9 !s90 -reportprogress|300|-sv|+acc|count_1.sv|tb_count_1.sv|
+!i113 0
+Z10 o-sv +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_count_1
+R3
+R4
+!i10b 1
+!s100 0bKiFlle_f[0RZin_5KA;1
+IZ_4=h55@O<E`>M?Zz=HEe1
+S1
+R1
+w1757237431
+Z11 8tb_count_1.sv
+Z12 Ftb_count_1.sv
+!i122 4
+L0 9 27
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+vtb_CSA_8
+R3
+!s110 1757237147
+!i10b 1
+!s100 <oFYXS3WcTQiPL7^fgEHB3
+IOS>7h>GWm7:O1:0]]Zl?N0
+S1
+R1
+w1757237145
+R11
+R12
+!i122 2
+L0 9 28
+R5
+R6
+r1
+!s85 0
+31
+!s108 1757237147.000000
+R8
+R9
+!i113 0
+R10
+R2
+ntb_@c@s@a_8

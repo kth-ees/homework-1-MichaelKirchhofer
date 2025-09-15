@@ -1,0 +1,135 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Michael/Desktop/KTH/Y2/IL2234/HW1/Q5
+T_opt
+!s110 1757238787
+V2AQYL1b<l3=REz`Ce[j:E1
+04 11 4 work tb_bin2gray fast 0
+=1-047c16708771-68bd5603-2f3-7ca0
+R0
+Z2 !s12b OEM100
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2022.4;75
+R1
+T_opt1
+!s110 1757239559
+VE8]UonCaEhUS:oORginAU0
+04 15 4 work tb_bin2gray_mux fast 0
+=1-047c16708771-68bd5906-37f-60f0
+R0
+R2
+R3
+R4
+R5
+n@_opt1
+R6
+vbin2gray
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1757239530
+!i10b 1
+!s100 Wd0hjh2OkE;8Z^[HD<QkM2
+Ibb5:ZRN>`bUcd[4m[:A`E0
+S1
+R1
+w1757239467
+8bin2gray.sv
+Fbin2gray.sv
+!i122 3
+L0 8 8
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z11 !s108 1757239530.000000
+Z12 !s107 tb_bin2gray.sv|bin2gray.sv|
+Z13 !s90 -reportprogress|300|-sv|+acc|bin2gray.sv|tb_bin2gray.sv|
+!i113 0
+Z14 o-sv +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vbin2gray_mux
+R7
+Z15 !s110 1757239550
+!i10b 1
+!s100 W^:7:k9J6Ycdl[[JSjVmV3
+Ik?YUoBWGC[b>TTLA`9WZW3
+S1
+R1
+w1757239459
+8bin2gray_mux.sv
+Fbin2gray_mux.sv
+!i122 4
+L0 8 28
+R9
+R10
+r1
+!s85 0
+31
+Z16 !s108 1757239550.000000
+Z17 !s107 tb_bin2gray_mux.sv|bin2gray_mux.sv|
+Z18 !s90 -reportprogress|300|-sv|+acc|bin2gray_mux.sv|tb_bin2gray_mux.sv|
+!i113 0
+R14
+R5
+vtb_bin2gray
+R7
+R8
+!i10b 1
+!s100 a7d`@H;d=Z>3TYocPWF852
+IP?oY@Dm>9nR6Q;aNYGZEI3
+S1
+R1
+w1757238760
+8tb_bin2gray.sv
+Ftb_bin2gray.sv
+!i122 3
+L0 9 21
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+vtb_bin2gray_mux
+R7
+R15
+!i10b 1
+!s100 >=k<_R<L>YE[g47SC31M;2
+I>5eWkGWUD_O4K]BNF<i7A1
+S1
+R1
+w1757239526
+8tb_bin2gray_mux.sv
+Ftb_bin2gray_mux.sv
+!i122 4
+L0 10 21
+R9
+R10
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 0
+R14
+R5
